@@ -20,6 +20,9 @@ npm start
 ## Project References
 
 [Create React App project with TypeScript](https://create-react-app.dev/docs/adding-typescript/)
+
 [MATERIAL-UI - React components for web development](https://material-ui.com/)
+
 [Redux](https://redux.js.org/)
+
 [Redux Sauce](https://github.com/jkeam/reduxsauce)
